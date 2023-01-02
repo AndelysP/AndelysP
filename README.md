@@ -15,7 +15,7 @@
 
 - 🔭 I am looking for a **caring company to continue my trip and develop my skills**
 
-*<h3 align="center">💙 Soft Skils:</h3>*
+*<h3 align="center">💙 Soft Skills:</h3>*
 <p align="center">Creativity, Team Spirit, Perseverance, Empathy, Autonomy...</p>
 
 *<h3 align="center">⚙️ Hard Skills:</h3>*
