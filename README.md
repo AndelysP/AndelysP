@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Front-end and Back-end development**
 
-- 📚 All of my projects are available at **[https://portfolio-andelys-pluquin.web.app/](https://portfolio-andelys-pluquin.web.app/)**
+- 📚 All of my projects are available at **[https://andelys.vercel.app/](https://andelys.vercel.app/)**
 
 - 📫 How to reach me **andelyst@hotmail.fr**
 
