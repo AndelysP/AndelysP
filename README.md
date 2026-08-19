@@ -1,17 +1,116 @@
-<h1 align="center">Hi 👋, I'm Andélys</h1>
-<h3 align="center">👩‍💻 I am a learning fullstack web developer</h3>
+<!-- ═══════════════════════════════════════════════════════════════
+     HEADER 
+     ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=andelysp&label=Profile%20views&color=45ab97&style=plastic" alt="profil views" /> </p>
+<div align="center">
 
-![gitban-header-img](https://user-images.githubusercontent.com/118371547/210226730-18599e9a-7879-418e-bfa7-98b44ba1043e.jpg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f0c29,50:302b63,100:8E2DE2&fontSize=48&fontColor=ffffff&fontAlignY=32&section=header" width="100%" />
 
-*<h3 align="center">💙 Soft Skills:</h3>*
-<p align="center">Creativity, Team Spirit, Perseverance, Empathy, Autonomy...</p>
+<a href="https://github.com/AndelysP">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=8E2DE2&repeat=false&center=true&vCenter=true&width=600&lines=hi+%F0%9F%90%88%E2%80%8D%E2%AC%9B" alt="Typing SVG" />
+</a>
 
-*<h3 align="center">⚙️ Hard Skills:</h3>*
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br />
 
-*<h3 align="center">🔗 Connect with me:</h3>*
-<p align="center">
-<a href="https://linkedin.com/in/andélys-pluquin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andélys-pluquin" height="30" width="40" /></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=AndelysP&label=lost+souls+who+ended+up+here&color=8E2DE2&style=for-the-badge&labelColor=0d1117" alt="Profile views" />
+
+</div>
+
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════════
+     ABOUT 
+     ═══════════════════════════════════════════════════════════════ -->
+## 
+
+<img align="right" width="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzhpdGFtbWxpdXJlMzRrNzRyZnQ2cmVrZTBwdDMyZWZsdnFsc2htaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZLiIvu7BMfzCaaGsWS/giphy.gif" />
+
+```ts
+const andelys = {
+  role:        "front-end dev",
+  stack:       ["React", "Next.js", "Tailwind", "Bootstrap"],
+  sideQuests:  ["game dev", "3D"]
+} as const;
+
+// 
+//
+```
+<br clear="both" />  
+
+<img align="right" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hjaHdtdGE0MXhwbG1pZWc0Y3A1cDR0eDF1MWdkbHB3cDIzY295dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/txxeygbA2NcvokkrPK/giphy.gif" />
+
+- Web dev by day, learning game dev by night
+- 3D learner
+- Turning cursed ideas into components
+
+<br clear="both" />   
+
+<!-- ═══════════════════════════════════════════════════════════════
+     STACK
+     ═══════════════════════════════════════════════════════════════ -->
+
+## Stack
+<table width="100%">
+<tr>
+<td valign="top" width="50%" align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,sass&theme=dark&perline=5" height="45" />
+
+</td>
+<td valign="top" width="50%" align="center">
+
+### Front-end
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,bootstrap&theme=dark&perline=6" height="45" />
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%" align="center">
+
+### Back-end & Data
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres&theme=dark&perline=4" height="45" />
+
+</td>
+<td valign="top" width="50%" align="center">
+
+### DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,aws,vscode&theme=dark&perline=6" height="45" />
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════
+     CONTACT 
+     ═══════════════════════════════════════════════════════════════ -->
+
+## Contact
+
+<div align="center">
+
+<br />
+
+<a href="https://fr.linkedin.com/in/and%C3%A9lys-pluquin">
+  <img src="https://img.shields.io/badge/LinkedIn-corporate%20lore-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br /><br />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhoYWNseXAycmdlcHVodHRwcmsyeTk5ODdwc3R3YzlyOHgyZmo4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1cKPO3MokF2cyvXeml/giphy.gif" width="80" />
+
+<br />
+
+<sub>© ∞ · made with ☕</sub>
+
+</div>
